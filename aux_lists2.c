@@ -1,4 +1,4 @@
-#include ".h"
+#include "simpleshell.h"
 
 /**
  * add_rvar_node - adds a variable at the end

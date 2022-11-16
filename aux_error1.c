@@ -1,4 +1,4 @@
-#include ".h"
+#include "simpleshell.h"
 
 /**
  * strcat_cd - function that concatenates the message for cd error
