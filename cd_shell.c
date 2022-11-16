@@ -1,4 +1,4 @@
-#include "simpleshell.h"
+#include ".h"
 
 /**
  * cd_shell - changes current directory

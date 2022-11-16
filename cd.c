@@ -1,4 +1,4 @@
-#include "simpleshell.h"
+#include ".h"
 
 /**
  * cd_dot - changes to the parent directory
