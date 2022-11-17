@@ -1,4 +1,4 @@
-#include ".h"
+#include "simpleshell.h"
 
 /**
  * rev_string - reverses a string.

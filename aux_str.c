@@ -1,4 +1,4 @@
-#include ".h"
+#include "simpleshell.h"
 
 /**
  * _strcat - concatenate two strings
